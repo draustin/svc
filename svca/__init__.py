@@ -1,1 +1,1 @@
-from .svca import Object, get_class, replace_proper_subset
+from .svca import Object, get_class, replace_proper_subset, include_base
